@@ -1,0 +1,30 @@
+{
+  "observed_at": "2026-08-14",
+  "observations": [
+    {
+      "source": "Roblox Charts",
+      "url": "https://www.roblox.com/charts",
+      "note": "Top Playing Now snapshot exposed Murder Mystery 2, Grow a Garden 2, Brookhaven RP, Blox Fruits and 99 Nights in the Forest among leaders. Counts are time-sensitive."
+    },
+    {
+      "source": "Roblox Play to Learn 2026",
+      "url": "https://about.roblox.com/newsroom/2026/05/roblox-2026-play-to-learn-competition",
+      "note": "Learning Hub had more than 64M visits since July 2025; winning concept embedded chemistry reactions inside combat/exploration rather than making a conventional lesson."
+    },
+    {
+      "source": "Roblox Tech Talks: Creator",
+      "url": "https://about.roblox.com/newsroom/2025/09/roblox-tech-talks-episode-29-creator",
+      "note": "Roblox explicitly frames Grow a Garden as an organic social experience and discusses removing creator toil and development velocity."
+    },
+    {
+      "source": "Roblox Discovery docs",
+      "url": "https://create.roblox.com/docs/discovery",
+      "note": "Retention, engagement and monetization directly affect recommendation signals."
+    },
+    {
+      "source": "Roblox Creator Store docs",
+      "url": "https://create.roblox.com/docs/production/creator-store",
+      "note": "Paid plugins and models have native USD distribution; this makes creator tooling the shortest direct-cash test."
+    }
+  ]
+}
