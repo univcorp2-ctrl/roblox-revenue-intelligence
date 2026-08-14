@@ -1,0 +1,46 @@
+[
+  {
+    "name": "RevenueOS Studio plugin",
+    "evidence": 0.90,
+    "demand": 0.82,
+    "distribution": 0.88,
+    "automation": 0.96,
+    "speed_to_revenue": 0.95,
+    "support_burden": 0.25,
+    "ip_risk": 0.05,
+    "platform_risk": 0.15
+  },
+  {
+    "name": "Social learning city: traffic + practical math + roleplay",
+    "evidence": 0.72,
+    "demand": 0.82,
+    "distribution": 0.63,
+    "automation": 0.89,
+    "speed_to_revenue": 0.48,
+    "support_burden": 0.30,
+    "ip_risk": 0.05,
+    "platform_risk": 0.20
+  },
+  {
+    "name": "LiveOps Autopilot paid plugin",
+    "evidence": 0.78,
+    "demand": 0.75,
+    "distribution": 0.88,
+    "automation": 0.95,
+    "speed_to_revenue": 0.82,
+    "support_burden": 0.35,
+    "ip_risk": 0.05,
+    "platform_risk": 0.18
+  },
+  {
+    "name": "Creator analytics SaaS",
+    "evidence": 0.70,
+    "demand": 0.74,
+    "distribution": 0.48,
+    "automation": 0.94,
+    "speed_to_revenue": 0.52,
+    "support_burden": 0.42,
+    "ip_risk": 0.05,
+    "platform_risk": 0.22
+  }
+]
